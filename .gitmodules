@@ -5,6 +5,3 @@
 [submodule "MNS"]
 	path = MNS
 	url = https://github.com/cran/MNS
-[submodule "rRAP"]
-	path = rRAP
-	url = https://github.com/cran/rRAP
